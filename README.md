@@ -56,4 +56,4 @@ Play suggestions:
 --If you are having problems after adding mods, please solve them yourself. (You can also find someone else/AI)
 3. I have prepared some lights and shadows for you that you can use for a better experience (you can also add your own lights and shadows to the sharderpacks folder)
 4. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
---(For some reason, I may be slow to handle it, I hope I can solve it myself, commit it to the issue and attach the solution, I really appreciate your help :))
+--(For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :))
