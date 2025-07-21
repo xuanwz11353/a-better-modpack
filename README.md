@@ -43,9 +43,12 @@ url：https://modrinth.com/modpack/a-better-modpack
 游玩建议：
 1.强烈建议您添加【静谧四季】到mods 文件夹中
   --下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar
+
 2.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
   --如果你在添加mod后遇到问题，请自行解决。（也可以找其他人/AI）
+
 3.我已经为你准备了一些光影，你可以使用它们来获得更好的体验（也可以添加自己的光影到sharderpacks文件夹中）
+
 4.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
   --（由于部分原因，我处理的速度可能比较慢，我希望有能力的可以自己解决它，提交到issue上并附加解决方案，我十分感谢你的帮助：)）
 
