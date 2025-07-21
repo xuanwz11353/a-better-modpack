@@ -4,7 +4,7 @@ The high-performance Visual Optimization Integration Pack, with stunning image e
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 沉浸式探索 · 极致视觉优化整合包
-本整合包专为1.21.1 Fabric打造，融合性能优化（钠/锂/氪/实体渲染优化）、视觉增强（Iris光影支持、动态模糊、区块淡入动画）与深度内容扩展：
+本整合包专为 Minecraft Java 1.21.1 Fabric打造，融合性能优化（钠/锂/氪/实体渲染优化）、视觉增强（Iris光影支持、动态模糊、区块淡入动画）与深度内容扩展：
 
 探索革新：天境、幽邃黑暗、自然之灵、蜜蜂领域等维度扩展，搭配YUNG全系结构优化（地牢/要塞/神庙）；
 
@@ -18,7 +18,7 @@ The high-performance Visual Optimization Integration Pack, with stunning image e
 
 
 Immersive Exploration · Visually Optimized Modpack
-Built for Minecraft 1.21.1 Fabric, this pack combines performance optimization (Sodium/Lithium/Krypton/Entity Culling), visual enhancements (Iris shaders, Motion Blur, Chunk Fade-in) and rich content:
+Built for Minecraft Java 1.21.1 Fabric, this pack combines performance optimization (Sodium/Lithium/Krypton/Entity Culling), visual enhancements (Iris shaders, Motion Blur, Chunk Fade-in) and rich content:
 
 Expanded Worlds: Aether, Deeperdarker, Nature's Spirit, Bumblezone + YUNG's dungeon/structure overhauls;
 
