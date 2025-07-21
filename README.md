@@ -50,7 +50,7 @@ url：https://modrinth.com/modpack/a-better-modpack
 3.我已经为你准备了一些光影，你可以使用它们来获得更好的体验（也可以添加自己的光影到sharderpacks文件夹中）
 
 4.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
-  --（由于部分原因，我处理的速度可能比较慢，我希望有能力的可以自己解决它，提交到issue上并附加解决方案，我十分感谢你的帮助：)）
+  --（由于部分原因，我处理的速度可能比较慢，我希望如果你有能力可以自己解决它，你可以提交到issue上并附加解决方案，在下一次更新中我会修复此问题，我十分感谢你的帮助：)）
 
 Play suggestions:
 1. It is highly recommended that you add [SereneSeasons] to the mods folder
