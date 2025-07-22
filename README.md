@@ -41,8 +41,10 @@ url：https://modrinth.com/modpack/a-better-modpack
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 游玩建议：
-1.强烈建议您添加【静谧四季】到mods 文件夹中
+1.强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
   --下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar
+或
+https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 
 2.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
   --如果你在添加mod后遇到问题，请自行解决。（也可以找其他人/AI）
@@ -53,8 +55,9 @@ url：https://modrinth.com/modpack/a-better-modpack
   --（由于部分原因，我处理的速度可能比较慢，我希望如果你有能力可以自己解决它，你可以提交到issue上并附加解决方案，在下一次更新中我会修复此问题，我十分感谢你的帮助：)）
 
 Play suggestions:
-1. It is highly recommended that you add [SereneSeasons] to the mods folder
+1. It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
 --Download link: https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar
+or https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 2. You can modify/upgrade mods as you like, but be careful: mods must support 1.21.1fabric
 --If you are having problems after adding mods, please solve them yourself. (You can also find someone else/AI)
 3. I have prepared some lights and shadows for you that you can use for a better experience (you can also add your own lights and shadows to the sharderpacks folder)
