@@ -36,7 +36,7 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-> 现在我把它发布到 modrinth 上，你很快就能看到它了！（如果显示 404，则表示您来得太早了，还没通过）
+> 现在我把它发布到 modrinth 上，你很快就能看到它了！（如果显示 404，则表示您来得太早了，还没通过）~~该死的审核！！！！！！！！！！！！！！！！！！！~~
 - 网站：https://modrinth.com/modpack/a-better-modpack
 - 不过，我还是建议你在此页面下载
 
@@ -44,25 +44,48 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 - url：https://modrinth.com/modpack/a-better-modpack
 - However, I still recommend downloading it from this page
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> 安装方式
+ - 1.使用modrith app直接安装（前提是~~该死的~~审核通过）
+ 
+ - 2.使用PCL/HMCL在整合包下载中找到整合包，搜索【a better modpack】。或把GitHub上下载的MRPACK文件拖到启动器中。
+    - 没有启动器？建议安装PCL：https://mod.3dmgame.com/mod/194985 网上有使用教程
+
+- 3.可以去网上搜教程
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > 游玩建议：
 - 1.**注意！！在1.2.1版本及以后，请忽略此提示！** 强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
   下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar或https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 
-- 2.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
+- 2.建议您至少分配8GB运行内存
+
+- 3.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
   如果你在添加mod后遇到问题，请自行解决。（也可以找其他人/AI）
 
-- 3.我已经为你准备了一些光影，你可以使用它们来获得更好的体验（也可以添加自己的光影到sharderpacks文件夹中）
+- 4.我已经为你准备了一些光影，你可以使用它们来获得更好的体验（也可以添加自己的光影到sharderpacks文件夹中）
 
-- 4.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
+- 5.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
   （由于部分原因，我处理的速度可能比较慢，我希望如果你有能力可以自己解决它，你可以提交到issue上并附加解决方案，在下一次更新中我会修复此问题，我十分感谢你的帮助：)）
 
 > Play suggestions:
 - 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
 Download link: https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar or https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
-- 2. You can modify/upgrade mods as you like, but be careful: mods must support 1.21.1fabric
+
+- It is recommended that you allocate at least 8GB of RAM
+
+- 3. You can modify/upgrade mods as you like, but be careful: mods must support 1.21.1fabric
 If you are having problems after adding mods, please solve them yourself. (You can also find someone else/AI)
-- 3. I have prepared some lights and shadows for you that you can use for a better experience (you can also add your own lights and shadows to the sharderpacks folder)
-- 4. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
+
+- 4. I have prepared some sharderpacks for you that you can use for a better experience (you can also add your own sharderpacks to the sharderpacks folder)
+
+- 5. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
 (For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :))
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> **鸣谢：此整合包使用PCL制作，感谢每一位下载此整合包的玩家！**
+
+> **Acknowledgements: This pack is made using PCL, thank you to everyone who downloaded this pack!**
