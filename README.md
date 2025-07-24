@@ -50,7 +50,7 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
  - 1.使用modrith app直接安装（前提是~~该死的~~审核通过）
  
  - 2.使用PCL/HMCL在整合包下载中找到整合包，搜索【a better modpack】。或把GitHub上下载的MRPACK文件拖到启动器中。
-    - 没有启动器？建议安装PCL：https://mod.3dmgame.com/mod/194985 网上有使用教程
+    - 没有启动器？建议安装PCL：https://github.com/Hex-Dragon/PCL2 网上有使用教程
 
 - 3.可以去网上搜教程
 
@@ -58,7 +58,8 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 
 > 游玩建议：
 - 1.**注意！！在1.2.1版本及以后，请忽略此提示！** 强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
-  下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar或https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
+  下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar  或
+  https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 
 - 2.建议您至少分配8GB运行内存
 
@@ -70,11 +71,13 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 - 5.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
   （由于部分原因，我处理的速度可能比较慢，我希望如果你有能力可以自己解决它，你可以提交到issue上并附加解决方案，在下一次更新中我会修复此问题，我十分感谢你的帮助：)）
 
+- 6.在**1.2.1fix及以后**，你可以在mods文件夹中找到被禁用的[真实物理PRO][遥远的地平线]两个mod，如果**你对你的电脑的性能有自信**，可以启用它们（删除文件后缀.disabled）
+
 > Play suggestions:
 - 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
 Download link: https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar or https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 
-- It is recommended that you allocate at least 8GB of RAM
+- 2. It is recommended that you allocate at least 8GB of RAM
 
 - 3. You can modify/upgrade mods as you like, but be careful: mods must support 1.21.1fabric
 If you are having problems after adding mods, please solve them yourself. (You can also find someone else/AI)
@@ -82,7 +85,9 @@ If you are having problems after adding mods, please solve them yourself. (You c
 - 4. I have prepared some sharderpacks for you that you can use for a better experience (you can also add your own sharderpacks to the sharderpacks folder)
 
 - 5. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
-(For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :))
+(For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :)）
+
+-  6. In **1.2.1fix and later**, you can find the disabled [Real Physics PRO] [Distant Horizon] two mods in the mods folder, if you **are confident in your computer's performance**, you can enable them (delete the file suffix .disabled)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
