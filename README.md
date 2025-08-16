@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## 📜 许可证  
 本整合包代码及配置采用 [MIT License]  
 第三方模组版权归原作者所有。
