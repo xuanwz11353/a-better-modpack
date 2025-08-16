@@ -1,3 +1,9 @@
+## 📜 许可证  
+本整合包代码及配置采用 [MIT License]  
+第三方模组版权归原作者所有。
+
+---
+
 高性能视觉优化整合包，惊艳画质增强与丰富扩展内容，开启你的视觉盛宴冒险之旅！ 
 The high-performance Visual Optimization Integration Pack, with stunning image enhancements and rich expansion content, is ready for your visual feast adventure!
 
