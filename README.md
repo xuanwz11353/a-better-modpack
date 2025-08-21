@@ -1,12 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-## 📜 许可证  
-本整合包代码及配置采用 [MIT License]  
-第三方模组版权归原作者所有。
-
----
-
 高性能视觉优化整合包，惊艳画质增强与丰富扩展内容，开启你的视觉盛宴冒险之旅！ 
 The high-performance Visual Optimization Integration Pack, with stunning image enhancements and rich expansion content, is ready for your visual feast adventure!
 
@@ -43,33 +34,20 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 
 > Powered by Spark/Debugify for stability. Redefine your high-fidelity adventure!
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> 现在我把它发布到 modrinth 上，你很快就能看到它了！（如果显示 404，则表示您来得太早了，还没通过）~~该死的审核！！！！！！！！！！！！！！！！！！！~~
-- 网站：https://modrinth.com/modpack/a-better-modpack
-- 不过，我还是建议你在此页面下载
-
-> Now I'm posting it on modrinth and you'll be able to see it in no time! (If 404 is displayed, it means that you have come too early, and it has not yet been approved)
-- url：https://modrinth.com/modpack/a-better-modpack
-- However, I still recommend downloading it from this page
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > 安装方式
- - 1.使用modrith app直接安装（前提是~~该死的~~审核通过）
  
- - 2.使用PCL/HMCL在整合包下载中找到整合包，搜索【a better modpack】。或把GitHub上下载的MRPACK文件拖到启动器中。
+- 1.使用PCL/HMCL，把GitHub上下载的MRPACK文件拖到启动器中。
     - 没有启动器？建议安装PCL：https://github.com/Hex-Dragon/PCL2 网上有使用教程
 
-- 3.可以去网上搜教程
+- 2.可以去网上搜教程
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > 游玩建议：
 - 1.**注意！！在1.2.1版本及以后，请忽略此提示！** 强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
-  下载链接：https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar  或
-  https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
-
+  
 - 2.建议您至少分配8GB运行内存
 
 - 3.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
@@ -84,7 +62,6 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 
 > Play suggestions:
 - 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
-Download link: https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar or https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar
 
 - 2. It is recommended that you allocate at least 8GB of RAM
 
@@ -96,10 +73,19 @@ If you are having problems after adding mods, please solve them yourself. (You c
 - 5. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
 (For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :)）
 
--  6. In **1.2.1fix and later**, you can find the disabled [Real Physics PRO] [Distant Horizon] two mods in the mods folder, if you **are confident in your computer's performance**, you can enable them (delete the file suffix .disabled)
+- 6. In **1.2.1fix and later**, you can find the disabled [Physics mod PRO] [Distant Horizon] two mods in the mods folder, if you **are confident in your computer's performance**, you can enable them (delete the file suffix .disabled)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > **鸣谢：此整合包使用PCL制作，感谢每一位下载此整合包的玩家！**
 
 > **Acknowledgements: This pack is made using PCL, thank you to everyone who downloaded this pack!**
+
+---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## 📜 许可证  
+本整合包代码及配置采用 [MIT License]  
+第三方模组版权归原作者所有。
