@@ -60,6 +60,8 @@ Built for **Minecraft Java 1.21.1 Fabric**, this pack combines performance
 
 - 6.在**1.2.1fix及以后**，你可以在mods文件夹中找到被禁用的[真实物理PRO][遥远的地平线]两个mod，如果**你对你的电脑的性能有自信**，可以启用它们（删除文件后缀.disabled）
 
+- 7.在**3.0.1及以后**，你可以在resourcepaks文件夹中找到【自定义音乐.zip】文件，你可以根据https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md 来自定义你喜欢的音乐
+
 > Play suggestions:
 - 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
 
@@ -74,6 +76,7 @@ If you are having problems after adding mods, please solve them yourself. (You c
 (For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :)）
 
 - 6. In **1.2.1fix and later**, you can find the disabled [Physics mod PRO] [Distant Horizon] two mods in the mods folder, if you **are confident in your computer's performance**, you can enable them (delete the file suffix .disabled)
+- 7. In **version 3.0.1 and later**, you can find the 【自定义音乐.zip】 file in the resourcepaks folder, and you can customize your favorite music according to https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,4 +91,4 @@ If you are having problems after adding mods, please solve them yourself. (You c
 
 ## 📜 许可证  
 本整合包代码及配置采用 [MIT License]  
-第三方模组版权归原作者所有。
+第三方模组（资源）版权归原作者所有。
